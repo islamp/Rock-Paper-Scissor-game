@@ -1,2 +1,3 @@
 # Rock-Paper-Scissor-game
-Multi player game
+# Multiplayer game
+# A programme that was built with structures and enums to make the code easy to read 
